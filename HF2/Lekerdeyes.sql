@@ -1,0 +1,3 @@
+EXECUTE AS User= 'MaskUser';
+SELECT * FROM Vendeg
+REVERT
